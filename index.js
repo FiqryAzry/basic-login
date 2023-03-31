@@ -57,7 +57,6 @@ function register(newusername, newpassword, newname, newemail) {
 }
 
 //try login
-//console.log(login("jonah", "789"))
 console.log(login("utem", "123456"))
 
 //try to reister
